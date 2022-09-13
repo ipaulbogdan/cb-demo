@@ -1,0 +1,8 @@
+spring:
+  couchbase:
+    username: admin
+    password: Testing@1
+    connection-string: 'couchbase://localhost'
+  data:
+    couchbase:
+      bucket-name: 'demo-bucket'
